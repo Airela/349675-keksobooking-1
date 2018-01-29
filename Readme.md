@@ -1,7 +1,7 @@
-# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
+﻿# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ольга Османова](https://up.htmlacademy.ru/javascript/12/user/349675).
-* Наставник: `Неизвестно`.
+* Наставник: `Нет`.
 
 ---
 
